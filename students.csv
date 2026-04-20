@@ -1,0 +1,16 @@
+Student_ID,Name,Subject,Marks,Grade
+1,Amit,Math,85,A
+2,Riya,Math,78,B
+3,John,Math,92,A
+4,Sara,Math,65,C
+5,Rahul,Math,55,D
+6,Amit,Science,88,A
+7,Riya,Science,74,B
+8,John,Science,95,A
+9,Sara,Science,68,C
+10,Rahul,Science,60,C
+11,Amit,English,82,A
+12,Riya,English,76,B
+13,John,English,90,A
+14,Sara,English,70,B
+15,Rahul,English,58,D
